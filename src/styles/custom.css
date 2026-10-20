@@ -1,0 +1,6 @@
+/* Limitar el tamaño de la imagen del hero */
+.hero img {
+  max-width: 100px !important; /* Ajusta este valor (ej. 180px, 200px, 250px) */
+  height: auto !important;
+  margin: 0 auto;
+}
